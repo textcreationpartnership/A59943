@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scheme of the whole book of the Revelation of Jesus Christ of very great use : with the following summarie of Daniels visions &amp;c., for the right understanding of the parallel of that book and the Revelation after set down.</title>
+            <author>Sherwin, William, 1607-1687?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59943</idno>
+            <idno type="STC">Wing S3411</idno>
+            <idno type="STC">ESTC R35184</idno>
+            <idno type="EEBO-CITATION">15057515</idno>
+            <idno type="OCLC">ocm 15057515</idno>
+            <idno type="VID">103129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1579:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scheme of the whole book of the Revelation of Jesus Christ of very great use : with the following summarie of Daniels visions &amp;c., for the right understanding of the parallel of that book and the Revelation after set down.</title>
+                  <author>Sherwin, William, 1607-1687?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Sherwin by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: pages cropped with loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation --  Outlines, syllabi, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103129:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:103129:2"/>
+            <pb n="1" facs="tcp:103129:2" rendition="simple:additions"/>
+            <head>A Scheme of the whole Book of the <hi>Revelation</hi> of <hi>Jeſus Chriſt,</hi> of very great uſe, with the following Summarie of <hi>Daniels</hi> Viſions, <hi>&amp;c.</hi> for the right underſtanding of the Parallel of that Book and the <hi>Revelation</hi> after ſet down. Printed in the Year 1671.</head>
+            <p>AFter that the beloved Diſciple <hi>John</hi> according to Chriſts ap<g ref="char:EOLhyphen"/>pointment, <hi>chap.</hi> 1.19. had written, Firſt, the things which he had ſeen in Viſion, <hi>chap.</hi> 1. and Secondly, the things that were in his time concerning the 7 Churches of <hi>Aſia, chap.</hi> 2, &amp; 3. under which 7 Churches is probably conceived alſo to be contained an adumbration of 7 Intervals of the future ſtate of the true Church until the glorious appearance and Kingdom of Chriſt.</p>
+            <p>Then in the 3d place (after a Divine Preludium, or rather Hierogly<g ref="char:EOLhyphen"/>phical Prologue and Drammatical Chorus (if I may ſo term them) by two moſt glorious Viſions ſet down <hi>chap.</hi> 4, 5. reſpecting the events of things to come in the end) he is appointed in all the enſuing Book to write of all things to come unto the end of the World.</p>
+            <p>In which 3d reſpect from <hi>chap.</hi> 4, &amp; 5. until the ſaid appearance and King<g ref="char:EOLhyphen"/>dom of Chriſt on Earth, <hi>chap:</hi> 19, &amp; 20. and the ſtate of things in his ſaid Kingdom farther decyphered, <hi>chap.</hi> 21, &amp; 22. are two large Propheſies (in that interim) contained, both of them reſpecting the Fates and State of the <hi>Roman</hi> Empire and f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſe Church during the ſame time, <hi>viz.</hi> 42. Monthes, and alſo of the true Church contemporating all along with both, for the 1260. dayes of years.</p>
+            <p>The firſt of which is the Seal Propheſie chiefly reſpecting the <hi>Roman</hi> civil State, firſt, as Heatheniſh, <hi>chap.</hi> 6. 2dly, as heretical and Antichri<g ref="char:EOLhyphen"/>ſtian, <hi>chap.</hi> 8, &amp; 9.</p>
+            <p>The 2d, is the Book-Propheſie, <hi>Rev.</hi> 10. reſpecting (chiefly) the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Eccleſiaſtick ſtate, or falſe Church, firſt, as <hi>Pagan</hi> and <hi>Heretical, chap,</hi> 12. 2ly, as <hi>Popiſh, c.</hi> 13, 17. whoſe ruine is fore-told, <hi>c.</hi> 14.8, and exe<g ref="char:EOLhyphen"/>cuted to the end of that chapter, with <hi>c.</hi> 15, &amp; 16. and more fully illuſtra<g ref="char:EOLhyphen"/>ted <hi>c.</hi> 18, &amp; 19.</p>
+            <p>Under both which ſtates, the true Church is briefly decyphered, in <hi>c.</hi> 11. to <hi>v.</hi> 15. (where follows her happie ſtate ſucceeding to the end of that <hi>chap.</hi>) of which likewiſe more largly again in the Book-propheſie, <hi>c.</hi> 12, &amp; 14 untill her ſaid bleſſed ſtate ſhall come, which is again decypher<g ref="char:EOLhyphen"/>ed farther, <hi>c.</hi> 19, &amp; 20. and gloriouſly illuſtrated, <hi>c.</hi> 21, &amp; 22.</p>
+            <p>
+               <hi>Now for the Contemporating of the ſaid two Propheſies obſerve further.</hi>
+            </p>
+            <p>Firſt, That the ſaid Seal-Propheſie reſpect; the <hi>Roman</hi> Seaſe, and is con<g ref="char:EOLhyphen"/>tained in <hi>c.</hi> 6, 8, 9. (with <hi>c.</hi> 11. to <hi>v.</hi>
+               <pb n="2" facs="tcp:103129:3"/>15: which laſt as a table of all the ſaid times is applicable to both Pro<g ref="char:EOLhyphen"/>pheſies) but in <hi>c.</hi> 6. are the ſix firſt Seals: the firſt Victory: the 2d Slagh<g ref="char:EOLhyphen"/>ter: 3d Ballance: 4th Death: 5th the Altar: 6. the great Earthquake in <hi>Conſtantine</hi> the greats time, when the great Red <hi>Dragon</hi> was caſt out of his Heaven of Idolatrous wor<g ref="char:EOLhyphen"/>ſhip to the earth, about 320. years after Chriſts birth under the ſaid ſixth Seal.</p>
+            <p>The 7th Seal in <hi>c.</hi> 8. out of which proceed the 7. Trumpets, or Judge<g ref="char:EOLhyphen"/>ments deſcribed in the ſame <hi>ch.</hi>
+            </p>
+            <p>By
+<list>
+                  <item>the firſt Trumpet Haile de<g ref="char:EOLhyphen"/>ſtroys the Earth;</item>
+                  <item>the 2d, a Moun<g ref="char:EOLhyphen"/>tain burning fell into the Sea</item>
+                  <item>3d, a Star fell into the Rivers:</item>
+                  <item>4th, an Ec<g ref="char:EOLhyphen"/>clyps of the Lights,</item>
+               </list> being all gradu<g ref="char:EOLhyphen"/>al Judgements upon the <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire for perſecuting the Saints be<g ref="char:EOLhyphen"/>fore, <hi>&amp;c</hi> and chiefly brought upon it by the Incurſions of the Barba<g ref="char:EOLhyphen"/>rous Nations till about the time of the Popes date began; together with the 10. Kings that give their power to the Beaſt, as <hi>c.</hi> 17. <hi>v.</hi> 12. about 410.</p>
+            <p>But after theſe, come the three woe Trumpets much more full of horrour, <hi>&amp;c.</hi> two of them in <hi>c.</hi> 9. wherein are contained the Locuſts, the Saracens; the firſt Woe to <hi>v.</hi> 11. about <hi>An. Dom.</hi> 600. and the <hi>Turks</hi> the <hi>Euphratean</hi> horſemen, to the end of the <hi>ch.</hi> about 1300. who have ſuc<g ref="char:EOLhyphen"/>ceſſively more and more prevailed to promote the ruine of the <hi>Roman</hi> Empire, chiefly of the Eaſt irrecove<g ref="char:EOLhyphen"/>rably.</p>
+            <p>The 3d Woe Trumpet utterly puts an end to the <hi>Roman</hi> Empire at the ruine of the Popedome, the laſt
+<pb n="3" facs="tcp:103129:3"/>head thereof, as <hi>c.</hi> 10, and <hi>c.</hi> 11.14. whereunto ſucceeds Chriſts Kingdom in the ſequel of <hi>ch.</hi> 11. from <hi>v.</hi> 15.</p>
+            <p>And under all the ſaid 7. Trum<g ref="char:EOLhyphen"/>pets the 144000. <hi>c.</hi> 7. of all the Tribes of <hi>Iſrael, i.e.</hi> of all real Saints in the times of all the ſaid Trumpets are preſerved by the Seal of the living God, whilſt the reſt of the men pe<g ref="char:EOLhyphen"/>riſhed under his ſaid Sealed Judge<g ref="char:EOLhyphen"/>ments, but eſpecially the Woe Trumpets.</p>
+            <pb n="1" facs="tcp:103129:1"/>
+            <p>Secondly, Alſo the ſaid Book-Propheſie <hi>c.</hi> 10. with which the time of the firſt 6 Seals did contemporate<g ref="char:punc">▪</g>
+            </p>
+            <pb n="2" facs="tcp:103129:3"/>
+            <p>Firſt, the Court of the Temple and Altar meaſured, <hi>c.</hi> 11.1.</p>
+            <p n="2">
+               <hi>2dly,</hi> The Dragon with 7 heads making War with <hi>Michael</hi> and his Angels, <hi>c.</hi> 12. which alſo were in the Primitive times of perſecution al<g ref="char:EOLhyphen"/>moſt until Antichriſts date began, by his great Apoſtaſie.</p>
+            <p>But during the ſaid 6 firſt Trum<g ref="char:EOLhyphen"/>pets out of the 7th Seal were many contemporaries, as</p>
+            <list>
+               <item>1. The outward Court or holy City not meaſured but given to the <hi>Gentils</hi> [<hi>viz.</hi> the <hi>Papists</hi>] to be trodden under foot 42. Months, <hi>c.</hi> 11.2</item>
+               <item>2. The two Witneſſes at laſt to be killed by the Beaſt propheſied cloathed in Sackcloth 1260. dayes of years, <hi>chap.</hi> 11.3.</item>
+               <item>3. The child-beating-Woman the Dragon being caſt down, flees into the wilderneſs, where ſhe is to be nouriſhed by the witneſſes, 1260. days of years, or a time times and half a time, <hi>c.</hi> 12.3, <hi>&amp;c.</hi>
+               </item>
+               <item>4, The 7 headed, and 10 horned Beaſt being after his deadly plague revived, under the courſe of that laſt head, blaſphemes, and overcomes the Saints 42. months, <hi>c.</hi> 13.1, 2, 3, <hi>&amp;c.</hi>
+               </item>
+               <item>5. The 2 horned Beaſt or falſe Prophet, the ſetter up of the 10 hor<g ref="char:EOLhyphen"/>ned Beaſt adminiſters all his power in his ſight or preſence, <hi>c.</hi> 13.11, 12, <hi>&amp;c.</hi>
+               </item>
+               <item>6. The Virgin companie of the 144000. ſealed ones of the Lamb, <hi>c.</hi> 14. to whom alone it is given to ſing the new ſong, doth admoniſh the worſhippers of the Beaſt of the Divine Judgements, <hi>c.</hi> 14.7, 8, <hi>&amp;c.</hi>
+               </item>
+               <item>7. That great City <hi>Babylon</hi> the
+<pb n="3" facs="tcp:103129:3"/>Whore, ſits upon the 7 headed beaſt, now in the courſe of his laſt head with ten horns, making the inhabi<g ref="char:EOLhyphen"/>tants of the Earth drunk with the Wine of her Fornication, <hi>c.</hi> 17.1, 2, <hi>&amp;c.</hi> to deſtroy which ſaid whore with fire, God will ſtir up the Kings of the earth, <hi>Rev.</hi> 17, 16.</item>
+            </list>
+            <p>And as for the 7 Vials or laſt plagues, <hi>chap.</hi> 15.16. the firſt ſix of them are probably con<g ref="char:EOLhyphen"/>ceived, by Mr. <hi>Mede,</hi> to be powred out under the ſixt Trumpet, all which prepare for the ſaid Beaſts ut<g ref="char:EOLhyphen"/>ter ruine, but it is the execution of the 7th when the 3d woe comes, that will as <hi>Daniel</hi> ſaith, <hi>c.</hi> 7.26. by fire conſume and deſtroy the body of the ſaid Beaſt unto the end, when he is alſo ſaid to goe into perdition, <hi>Rev.</hi> 17.11.</p>
+            <p>But at the ſounding of the 7th or 3d Woe Trumpet the myſterie of God is finiſhed, <hi>c.</hi> 10. as he ſpake by his ſervants the Prophets, when will ſtand up the innumerable company of rejoycing Palm-bearers in their white robes, as they are deſcribed, <hi>c.</hi> 7. who are ſaid to be ſealed as before, and preſerved for the <hi>Jeruſalem</hi> ſtate, and Chriſts Kingdom on earth, <hi>c.</hi> 20.21, 22. And upon the ſounding of which ſaid 7th Trumpet, when the laſt Beaſtly Kingdom, <hi>viz.</hi> the <hi>Roman</hi> ſhall periſh for ever, as <hi>Num.</hi> 24 24. The good new World to come will then begin; for upon that ruine of Sa<g ref="char:EOLhyphen"/>tans Kingdom, Chriſts is ſet up in the world for 1000. years: for which time Satan is bound, and Chriſt reigneth perſonally with his Saints. All which time the Wife of the Lamb, the New <hi>Jeruſalem</hi> that came down from God out of Heaven. (after whoſe light the Nations that are ſaved; ſhall walk) will be the Mother Citie of Chriſts ſaid Kingdom.</p>
+            <p>And when the ſaid 1000. years are ended, Satan ſhall be looſed for his laſt moſt provoking and deſperate attempt with his laſt <hi>Gog</hi> and <hi>Magog, c.</hi> 10.8, <hi>&amp;c,</hi> which will ſuddainly bring on him deſtruction, and on the world likewiſe, thereupon to be diſſolved, when the ſounding of the laſt Trumpet will be heard, and the change, reſurrection and rapture of all the Saints living, remaining, and dead, will in a moment or twinckling of an eye be accompliſhed, unto which will ſucceed the reſurrection of the wicked, and the General Judgement of good and bad by the irreverſible Sentence of approbation and condemnation for all Eternitie.</p>
+            <div type="part">
+               <head>A brief and uſeful Summary of the book of the Prophet <hi>Daniel,</hi> being a fit Introduction to the Parallel of that, and the book of the <hi>Revelation.</hi>
+               </head>
+               <p>AS Chriſt Jeſus commanded St. <hi>John</hi> his beloved Diſciple. <hi>Rev.</hi> 1.19.</p>
+               <p>Firſt, To write the things he had ſeen, <hi>viz.</hi> ſet down in the ſame
+<pb n="4" facs="tcp:103129:4"/>
+                  <list>
+                     <item>2ly. The things that then were, <hi>viz.</hi> concerning thoſe preſent Churches of <hi>Aſia,</hi> Chap. 2. and 3.</item>
+                     <item>3ly. The things that ſhould be afterwards to the end of the world: in the reſt of that whole book: even ſo the ſpirit of God had before guided <hi>Daniel</hi> that greatly beloved Prophet in the ſame order.</item>
+                  </list>
+               </p>
+               <p>Firſt, To write the things he had ſeen: More gene<g ref="char:EOLhyphen"/>rally,
+<list>
+                     <item>1. By Revelation only, Chap. 2. by making known to him the expoſition of <hi>Nebuchadnezzars</hi> dream of an Image, the parts of which, ſet forth the four Mo<g ref="char:EOLhyphen"/>narchies of this world.</item>
+                     <item>2. By both Viſion and Revelation, chap. 7. when the ſame things in generals were again ſet before him by four beaſts that ſhould deſtroy each other, further de<g ref="char:EOLhyphen"/>cyphering for the uſe of the Church, the ſtate of the ſaid Mettle Kingdoms, in other reſpects ſet forth in the Image before.</item>
+                  </list>
+               </p>
+               <p>By which double confirmation, God ſet before his people the excellen<g ref="char:EOLhyphen"/>cy and uſefulneſs of thoſe things ſo made known, with the certainty of them, and of what was to enſue to the end of the world (as our Saviour in theſe times of the end hath by his Revelations to St. <hi>John</hi> made mani<g ref="char:EOLhyphen"/>fest, as he here alſo expreſly declares, <hi>Dan.</hi> 2.28. and afterwards, <hi>Dan.</hi> 10.14.) <hi>viz.</hi> they were of things that concerned the latter dayes.</p>
+               <p>And in both theſe Generals made known to <hi>Daniel,</hi> we may obſerve the ſpecial inlargements concerning the 4th. Kingdom of the <hi>Romans,</hi> with this difference, that in <hi>Nebuchadnezzars</hi> dream were ſet forth the things that concerned the <hi>Roman</hi> Monarchy in the civil ſtate thereof, by the mixture of Iron and Clay in the ſect and toes towards the end of it, as belonging to the beaſt with ten horns, expounded by our Saviour, <hi>Rev.</hi> 13.1, 2, 3, to <hi>v.</hi> 11. And thereunto was added the ſetting up of the firſt ſtate of Chriſts Kingdom by the God of Heaven, <hi>ver.</hi> 34. and <hi>v.</hi> 44. ſhewing the preva<g ref="char:EOLhyphen"/>lency thereof in the time, and at the end of that Monarchy, when both that, and all the broken parts of the former, ſhould altogether paſs aways whereupon ſhould ſucceed the 2d. ſtate of Chriſts Kingdom, which Mr. <hi>Made</hi> ſtiles the Kingdom of the Mountain, from <hi>Dan</hi> 2.35. when the ſtone ſhall become a great Mountain filling the whole earth.</p>
+               <p>But unto <hi>Daniel, ch.</hi> 7. with the 10 horns or civil ſtate, is alſo ſet forth that which ſeemed to be a little horn (at firſt view) which was after to decypher the great Antichriſt with his wicked actings, <hi>ver.</hi> 8. <hi>&amp;c.</hi> further expounded, <hi>v.</hi> 20, 21, 22 <hi>&amp;c.</hi> which appears from <hi>Rev.</hi> 13. <hi>v.</hi> 11. <hi>&amp;c.</hi> to refer to the two horned beaſt in the ſame time in reſpect of its Eccleſiaſti<g ref="char:EOLhyphen"/>cal capacity, for whoſe wickedneſs was the ſetting up of the Throne of Judgement of the antient of days to deſtroy the ſaid beaſt, <hi>&amp;c. v.</hi> 11, with 9. &amp; 10. Upon which total and terrible deſtruction of that whole ſtate was ſhewed unto <hi>Daniel,</hi> the coming of the Son of man coming with the
+<pb n="5" facs="tcp:103129:4"/>Clouds of Heaven ſo often ſpoken of by our Saviour in the Goſpel, when he ſhall receive and poſſeſs his univerſal glorious kingdom in the world, and all Domini<g ref="char:EOLhyphen"/>ons ſhall ſerve and obey him, <hi>v.</hi> 13, 14. and <hi>v.</hi> 27. and as is ſet down, <hi>v.</hi> 18. and <hi>v.</hi> 22. then Judgment, or <hi>Poteſtas judicandi,</hi> ſhall be given to the Saints of the moſt high: who ſhall from that time, as our Saviour hath taught, <hi>Rev.</hi> 20.4. and <hi>Rev.</hi> 5.10. Reign with himſelf upon earth a thouſand years.</p>
+               <p>The ſecond head in the book of <hi>Daniel,</hi> is of ſuch things as were in <hi>Daniels</hi> own time, wherein,</p>
+               <list>
+                  <item>Firſt, Of his own, and the other three worthies coming, promotion, and con<g ref="char:EOLhyphen"/>tinuance at <hi>Babylon,</hi> to the firſt year of <hi>Cyrus,</hi> chap. 1.</item>
+                  <item>Secondly, Of the ſpecial occaſion of his own promotion by interpreting <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzars</hi> dream, <hi>chap.</hi> 2.</item>
+                  <item>Thirdly, Of the tryal and deliverance of the three ſaid Worthies from the fiery Furnace, <hi>chap.</hi> 3.</item>
+                  <item>Fourthly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f Gods humbling of King <hi>Nebuchadnezzar</hi> for his pride, and his getting thereby glory to himſelf, <hi>chap.</hi> 4.</item>
+                  <item>Fifthly, Of the end and ruine of his Kingdom in <hi>Belſhazzars</hi> his Grand-childs deſtruction, <hi>chap.</hi> 5. where ended the <hi>Babylonian</hi> Monarchy as was revealed before to <hi>Daniel,</hi> ch. 2.4. for then was the Lion with Eagles wings made to ſtand on his feet as a man: wherefore no more is ſpoken thereof; but only of the 3 following.</item>
+               </list>
+               <p>The Sixth and laſt thing recorded by <hi>Daniel</hi> in his own time, was the Story of his own tryal and deliverance from the Denn of Lions, <hi>ch.</hi> 6. which though placed before his Viſion of the 4 beaſts, yet was given many years after it; about the ſame time in which he had the Viſion of the 70 weeks of years revealed to him, <hi>chap.</hi> 9. of which, more afterwards, by Gods aſſiſtance.</p>
+               <p>So 3ly, We come to the laſt head of <hi>Daniels</hi> book, to wit, of ſuch things more particularly which were to be afterwards. Firſt, reſpecting that continuance of the ſaid 70 weeks, or 490 years, in all the three ſucceeding Monarchies, to the utmoſt extent of that time contained in that Viſion, <hi>ch.</hi> 9. which was ſhewed to him upon his ſeeking God at the end of the <hi>Babylonian</hi> Captivity, in the firſt year of <hi>Darius;</hi> the beginning of which 70 weeks (as learned men conceive) was from the putting in execution of the decree for the building of the City <hi>Jeruſalem,</hi> until Chriſt Je<g ref="char:EOLhyphen"/>ſus had fulfilled the work of mans Redemption, and in half a week after confirm<g ref="char:EOLhyphen"/>ing his Covenant with many, and to the end of the ſaid 490 years, and before <hi>Je<g ref="char:EOLhyphen"/>ruſalems</hi> laſt deſtruction, which was (as in the end of that 9th. chap. is ſhewed) to remain deſolate, after the people of the <hi>Roman</hi> Prince had deſtroyed it, all the times of the <hi>Gentiles</hi> (as our Saviour hath expounded that Text, <hi>Luke</hi> 21.24) that he ſhould make it deſolate, even until the conſummation, and that determi<g ref="char:EOLhyphen"/>ned, ſhould be poured upon the deſolate, <hi>v.</hi> 27. the ſame time otherwiſe called the indignation to be accompliſhed, for that that is determined ſhall be done <hi>ch.</hi> 11.36.</p>
+               <p>But 2ly, <hi>Daniel</hi> had another Viſion in the third year of <hi>Belſhazzar</hi> before that in the 9. <hi>c.</hi> which more eſpecially concerned the two next ſucceeding Monarchies: Firſt, ſetting forth therein the great power of the <hi>Perſian Ram,</hi> and his ſuddain ru<g ref="char:EOLhyphen"/>ine by <hi>Alexander</hi> of <hi>Macedonia,</hi> the beginner of the <hi>Grecian</hi> Monarchy, ſet forth
+<pb n="6" facs="tcp:103129:5"/>by the Hee-Goat, ſwiftly ſubduing the <hi>Perſian</hi> Ram, <hi>ch.</hi> 8. according to the en<g ref="char:EOLhyphen"/>ſuing interpretation of the Angel, from <hi>v.</hi> 20. to 25. together with the diviſion of the <hi>Greek</hi> Kingdom, afterwards unto his four Commanders: from one of which, <hi>viz. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chus Nicanor,</hi> proceeded that wicked <hi>Antiochus Epiphanes,</hi> the eminent type of the great Antichriſt, whoſe ruine alſo like his, is ſaid <hi>v.</hi> 25. to be without hand. But before the ſaid interpretation of the Angel, <hi>Daniel</hi> had another Viſion of <hi>Palmoni,</hi> or the ſecret or wonderful numberer, <hi>v.</hi> 13, 14. <hi>&amp;c.</hi> wherein it is reſolved how long the Sanctuary and Hoſt ſhould be trodden under foot, name<g ref="char:EOLhyphen"/>ly unto 2300 evenings and mornings, or many dayes, <hi>viz.</hi> of years, as ſeems to be f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rther explained, <hi>v.</hi> 26. which though in the letter, it be applyed by ſome only to the time of <hi>Antiochus Epiphanes</hi> his outrage againſt the <hi>Jews</hi> and their Religi<g ref="char:EOLhyphen"/>on; yet ſeems <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o have eſpecial reſpect to the <hi>Jews</hi> general captivity, from the beginning of the 70 years, to their general deliverance by Chriſt at his appear<g ref="char:EOLhyphen"/>ance, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Dan. 12.1. to which purpoſe obſerve, it is called a Viſion of it ſelf to be for many dayes, <hi>v.</hi> 26. with an eſpecial confirmation of the truth of it. 2ly. It was from <hi>Palmoni</hi> or the ſecret and wonderful numberer, and therefore likely to have reference to ſome greater extent of time than that ſhort time of <hi>Antiochus E<g ref="char:EOLhyphen"/>piphanes</hi> Tyranny and outrage. 3ly. It was the time that the Hoſt and the San<g ref="char:EOLhyphen"/>ctuary were to be trodden under foot; now the Hoſt and Sanctuary had been trodden under foot long before in the fence our Saviour ſaith the City ſhould be, <hi>Luke</hi> 21.24. after it ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld be again deſtroyed, which we read not that the Tem<g ref="char:EOLhyphen"/>ple was in <hi>Antiochus Epiphanes</hi> time.</p>
+               <p n="4">
+                  <hi>4ly</hi> it is ſaid it ſhould be untill 2300. dayes, not ſaid expreſly ſo long time was to come but ſeems rather to imply much of it was paſt. <hi>5ly,</hi> Both Hoſt and Sanctuary, have in our Saviours ſence ſeemed to be trodden underfoot many ages ſince (my<g ref="char:EOLhyphen"/>ſtically, <hi>Rev.</hi> 11.2. under the <hi>Gentiles</hi> or <hi>Gentilizing Papiſts.</hi>) But beſides all this, there are divers expreſſions from the words in the Viſion that appear to have referrence to the laſt times as the time of the end, <hi>v.</hi> 17. and again very expreſly, he ſaid he would make him know what ſhould be in the laſt end of the indignati<g ref="char:EOLhyphen"/>on, <hi>v.</hi> 19. anſwerable to a like expreſſion at the end of the <hi>Roman</hi> Monarchie, <hi>c.</hi> 11.36. till the ind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnation be accompliſhed, <hi>&amp;c.</hi> and again, <hi>v.</hi> 26. it ſhall be for many dayes; not mornings and evenings: and farther, it hath that mark of the laſt times ſet upon it, [that the Viſion ſhould be ſhut up,] as others after were till the time of the end, or Goſpel times, as <hi>c.</hi> 11.40. &amp; 12.4.9. Which, in this book hath refe<g ref="char:EOLhyphen"/>rence to the time when Chriſt g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve the <hi>Revelation,</hi> to open ſuch Myſteries in <hi>Dan.</hi> as the other phraſe [<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he liſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of indignation] appears to relate to the <hi>Jews</hi> deli<g ref="char:EOLhyphen"/>verance at the end of the <hi>Roman</hi> Monarchie, <hi>c.</hi> 11.36. and therefore upon the con<g ref="char:EOLhyphen"/>firmation of the ſaid Viſion to be true, <hi>Daniel</hi> is injoyned to ſhut it up; and that for the reaſon following, for it is for many days: which phraſe we find again ex<g ref="char:EOLhyphen"/>plained by [the la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r days, or poſternity of days (as the <hi>Heb.</hi> phraſe notes) and ſo 'tis ſaid, <hi>c.</hi> 10.14. <hi>I am come to make thee underſtand what ſhall be in the latter days: for yet the Viſion is for many days.</hi> So that though there might be ſome gradual ſui<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of the mornings and evenings to <hi>Antiochus</hi> his time, yet upon theſe many con<g ref="char:EOLhyphen"/>ſiderations the Viſion appears to reach to a much larger extent of time than the
+<pb n="7" facs="tcp:103129:5"/>outrage of <hi>Antiochus, Epiphanes,</hi> namely, to the end of the <hi>Jews</hi> bondage. So the Propheſie <hi>Zac.</hi> 12.10. is partially and in ſome reſpect applyed to the <hi>Jews</hi> piercing of Chriſt at his death, <hi>Jo.</hi> 19.37. when he was pierced with a Spear on the Croſs, which will have in other reſpects a much more eminent fulfilling at the national converſion of the <hi>Jews,</hi> when they ſhall happily behold him, and mourn with true penitence abundantly for that former piercing of him. ſo the promiſe of pouring out his Spirit on all fleſh, <hi>Joel</hi> 2.28. was partially fulfilled, <hi>Act.</hi> 2. but will much more fully be accompliſhed, when <hi>Jews</hi> and <hi>Gentiles</hi> ſhall joyntly make up one Sheepfold under one Shepherd: ſo that promiſe that King, ſhall be Nurſing Fa<g ref="char:EOLhyphen"/>thers, and Queens Nurſing Mothers, <hi>Eſ.</hi> 49.23. hath ſometimes been fulfilled, remarkably ſince the rejection of the <hi>Jews,</hi> but ſhall be in a farr greater meaſure fulfilled (according to divers Propheſies) when all <hi>Iſrael</hi> ſhall be ſaved (as <hi>S. Paul</hi> ſpeaks, <hi>Ro.</hi> 11.) ſo the Meſſenger promiſed <hi>Mal.</hi> 3.1. to prepare the way before Chriſt; and <hi>Elias, Mal.</hi> 4.5. to be ſent before the great and terrible day of the Lord at Chriſts firſt and ſecond coming, were in ſome ſort fulfilled in <hi>John Baptiſt,</hi> who came in the ſpirit and power of <hi>Elias, Luc.</hi> 1.17. yet ſhall have a further accompliſhment at his next coming, as our Saviour informs us, after the death of <hi>John Baptiſt. Mat.</hi> 17.11. and that with a ſtrong aſſeveration; <hi>Elias</hi> (truly) ſhall firſt come and reſtore all things, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">
+                  <hi>3dly.</hi> Thirdly that laſt great and large Viſion concerning the 3 other Mettle-Kingdoms after the <hi>Babilonian</hi> was paſt, to the uttermoſt period of the <hi>Romans,</hi> and the ſetting up of Chriſts Kingdom, was revealed to <hi>Daniel</hi> in the 3d year of <hi>Cyrus</hi> after his three weeks ſeeking of God when the glorious appearance of Chriſt was revealed to him, <hi>c.</hi> 10. as if his glorious appearance ſhould be upon the accompliſhment of that Viſion: the like was ſhewed to St. <hi>John</hi> at the beginning of the <hi>Revelation,</hi> who ſaith, <hi>he comes quickly,</hi> &amp;c. at the end of it, <hi>Rev.</hi> 22 2. and in <hi>v.</hi> 14. he is inſtructed by him that comforted him, that he was come to make him underſtand what ſhould befall his people in the latter dayes, for yet (ſaid he) the Viſion is for many dayes. Whereupon the Viſions of the three laſt Monarchies were given in order to him, <hi>c.</hi> 11. where, <hi>v.</hi> 2. only concerns the <hi>Per<g ref="char:EOLhyphen"/>ſian</hi> Kingom, and <hi>v.</hi> 3.4 concerned the <hi>Grecian</hi> Kingdom more generally; and from thence the ſeveral wars between <hi>Syria</hi> and <hi>Egypt,</hi> to <hi>Antiochus Epiphanes, v.</hi> 21. and from thence of his evil actings, and the ſufferings of Gods people, to <hi>v.</hi> 36. where (according to Mr. <hi>Mede,</hi> and others, for weightie reaſons) begins the 4th Kingdom of the <hi>Romans</hi> as there, and formerly deſcribed by <hi>Daniel,</hi> and farther explained by Chriſt in the <hi>Revelation,</hi> with the many changes which ſhould be in its ſeveral times till the end thereof at Chriſts appearance; <hi>c.</hi> 12.1. whereto are added many things for explication in the reſt of that 12th <hi>c.</hi> but <hi>v.</hi> 36. of <hi>c.</hi> 11. is firſt ſet down what is ſpoken of the qualities and actings of the <hi>Roman</hi> Empire more generally both before Chriſt, in his time, and in thoſe primitive times of the Church deſcribed, <hi>Rev.</hi> 12.1. when ſhe was as a woman cloathed, with the Sun and the Moon under her feet, <hi>&amp;c.</hi> but <hi>v.</hi> 37.38, 39. ſeem to contain the Beaſts 42. Months, when the ſaid Woman the Church went into her wilderneſs condition for a time, times, and dividing of a time; and was fed by the Sackcloth witneſ<g ref="char:EOLhyphen"/>ſes
+<pb n="8" facs="tcp:103129:6" rendition="simple:additions"/>1260. days of years, but at <hi>v.</hi> 40. in thoſe times of the end, or Goſpel times, appears the more remarkable ruiners of the <hi>Roman</hi> Empire, which are reckoned in <hi>Rev.</hi> 9. to be the firſt and ſecond woe Trumpets in the preva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lencie of Mahumetan impoſtures: the firſt of the <hi>Saracens</hi> about <hi>An.</hi> 600. called the King of the South, who in the time of the holy Wars (as they were called) ſeemed ſo to puſh at the <hi>Roman</hi> Monarchie in the Eaſt, &amp; againſt the <hi>Popes</hi> party from the Weſt. The 2d wo Trumpet the King of the N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth, <hi>viz.</hi> the <hi>Turk,</hi> after by power and policie he had prevailed againſt the <hi>Sarracens,</hi> overflowed not only the Eaſtern <hi>Roman</hi> Empire, with his multitudes about <hi>An.</hi> 1300. but many other parts; whoſe actings and pro<g ref="char:EOLhyphen"/>ceedings towards <hi>Edom, Ammon, Moab, Egypt,</hi> we have afterwards deſcribed, <hi>v.</hi> 41, 42, 43, 44. till his ruin and deſtruction irreſiſtibly come upon him, <hi>v.</hi> 45. where ends the 2d wo Trumpet; and <hi>c.</hi> 12.1. will begin the 3d wo Trumpet when the <hi>Rom.</hi> Empire that remained in the feet and toes of it, under the Popedom will finally be deſtroyed; and <hi>Daniels</hi> people the <hi>Jews</hi> be delivered, <hi>v.</hi> 1, 2 3. which ſtate of the Papacie is alſo darkly further decyphered unto <hi>Dan.</hi> 12.5, 6, 7. but with a charge to ſhut up and ſeal that and ſome other things then <hi>v.</hi> 4 9. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll the ſaid time of the end or Goſpel times; which ſince are opened, unſealed, and revealed by Chriſt to St. <hi>John</hi> for the uſe of his Church; wherefore when the whole book of the <hi>Revela<g ref="char:EOLhyphen"/>tions</hi> were imparted to him he forb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him to ſeal it, <hi>Rev.</hi> 22.10. (though the things; therein contained were ſealed in <hi>Daniels</hi> time) but now the time of the end was come, now he ſets down the orders of the accompliſhment of things more fully (though in a Divine myſtical way) which <hi>Daniel</hi> ſet down more briefly, or on<g ref="char:EOLhyphen"/>ly in generals, for then God would have them ſhut up till the ſaid time of the end: when alſo Antichriſts time, times, and half a time, <hi>Dan.</hi> 12.6, 7. ſhould be un<g ref="char:EOLhyphen"/>derſtood by thoſe that have warning given them, <hi>v.</hi> 10. to prepare and provide to improve thoſe ſuffering times which are not yet fully ended, though hopefully near their period: whereunto are annexed ſome myſtical Numbers reſpecting the <hi>Jews</hi> (as Judicious men probably conceive) to begin about <hi>Julians</hi> the Apoſtate Emperours time, <hi>An.</hi> 666. or as Dr. <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> computes 663, when Sacrifice ſhould be laſt and effectually taken away, and the abomination of Deſolation ſet up with further encouragement to the faithful Jews of thoſe times, <hi>v.</hi> 11, 12. And in the laſt <hi>verſe,</hi> was given a ſpecial conſolation for <hi>Daniel</hi> at the end of the dayes, when all his former Viſions ſhould be accompliſhed, <hi>viz.</hi> at the Reſurrection of the Juſt; when he ſhall ſtand in his lot with all the faithful Fore-fathers, and others ſince, <hi>&amp;c.</hi> as <hi>Heb.</hi> 11.39, 40. See many of theſe things more largely ſpoken of in the Abridgement on <hi>Daniel</hi>'s Viſions, with the Parallel of <hi>Daniel,</hi> and the <hi>Revela<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
